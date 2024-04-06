@@ -1,0 +1,5 @@
+langchain
+yfinance
+streamlit
+openai
+langchain_experimental
