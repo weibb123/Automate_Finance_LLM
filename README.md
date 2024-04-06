@@ -1,14 +1,13 @@
 # Automate_Finance_LLM
 
 ## Description
-Connect to yahoofinance with text and automate finance using Ollama-mistral and mistral function calling
+Connect to yahoofinance with text and automate finance using Ollama-mistral and mistral function calling.
 
 ## Table of Contents
 - [Demo Video](#Demo-Video)
   - [Tech Stack](#Tech-Stack)
-  - [Subheading 1.2](#subheading-12)
-- [Heading 2](#heading-2)
-  - [Subheading 2.1](#subheading-21)
+  - [Usage](#usage)
+- [Next Step](#Next-Step)
 
 ![image](https://github.com/weibb123/Automate_Finance_LLM/assets/84426364/8100d88b-7ace-4328-9ae4-f1739b02da65)
 
@@ -35,9 +34,23 @@ client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1")
 
 **Streamlit**: For app frontend
 
+## Usage
+To run it locally, make sure to download ollama and do
 
+```
+ollama pull mistral
+```
 
+then run the app locally
 
+```
+streamlit run app.py
+```
+
+## Next Step
+With LLM to automate finances, it is possible to generate an entire profile for a company.
+
+Create training data for deep learning model to predict stocks
 
 ## Reference 
 Nicholas Renotte - AI engineer at IBM
