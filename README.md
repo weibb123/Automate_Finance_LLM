@@ -5,7 +5,7 @@ Connect to yahoofinance with text and automate finance using Ollama-mistral and 
 
 ## Table of Contents
 - [Demo Video](#Demo-Video)
-  - [Subheading 1.1](#subheading-11)
+  - [Tech Stack](#Tech-Stack)
   - [Subheading 1.2](#subheading-12)
 - [Heading 2](#heading-2)
   - [Subheading 2.1](#subheading-21)
@@ -31,7 +31,11 @@ ollama pull mistral
 client = OpenAI(api_key="ollama", base_url="http://localhost:11434/v1")
 ```
 
-**yahoofinance**
+**yahoofinance**: To download financial data of stocks and period.
+
+**Streamlit**: For app frontend
+
+
 
 
 
