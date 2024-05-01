@@ -1,7 +1,10 @@
 # Automate_Finance_LLM
 
 ## Description
-Connect to yahoofinance with text and automate finance using Ollama-mistral and mistral function calling.
+
+"Automated financial tasks by integrating the Yahoo Finance API with the open-source Mistral-7b."
+
+"Created a self-hosted LLM model server using Ollama and designed a Streamlit app to enhance user functionality."
 
 ## Table of Contents
 - [Demo Video](#Demo-Video)
