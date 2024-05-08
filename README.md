@@ -2,9 +2,12 @@
 
 ## Description
 
-"Automated financial tasks by integrating the Yahoo Finance API with the open-source Mistral-7b."
+Project Title: Automate Finance with LLM
 
-"Created a self-hosted LLM model server using Ollama and designed a Streamlit app to enhance user functionality."
+Developed a cutting-edge finance automation tool using Ollama, LangChain, and OpenAI, integrating with Yahoo Finance to retrieve and process real-time financial data
+
+Designed and implemented a full-stack application, utilizing Streamlit for the front-end and leveraging Ollama(Mistral-7b) to automate financial analysis
+
 
 ## Table of Contents
 - [Demo Video](#Demo-Video)
