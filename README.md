@@ -63,3 +63,5 @@ Nicholas Renotte - AI engineer at IBM
 
 Inspired by Nicholas Renotte for demonstrating how to create fake openai server with llama.cpp. Although llama.cpp is hard to setup locally, this demo make uses of Ollama to use mistral-7b.
 
+https://ollama.com/blog/openai-compatibility - Ollama Blog Post on openai client
+
