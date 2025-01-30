@@ -15,8 +15,6 @@ Designed and implemented a full-stack application, utilizing Streamlit for the f
   - [Usage](#usage)
 - [Next Step](#Next-Step)
 
-![image](https://github.com/weibb123/Automate_Finance_LLM/assets/84426364/8100d88b-7ace-4328-9ae4-f1739b02da65)
-
 ## 1/29/2025 added long-term metrics
 
 200-Day-moving-average, FCF(Free Cash Flow) Yield, Debt/Equity to determine if a stock worth holding long term.
