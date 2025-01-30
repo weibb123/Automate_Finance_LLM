@@ -1,4 +1,4 @@
-# Automate_Finance_LLM
+# Automate_Finance_LLM/Automate Stock Analysis Dashboard
 
 ## Description
 
