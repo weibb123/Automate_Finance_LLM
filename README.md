@@ -19,6 +19,8 @@ Designed and implemented a full-stack application, utilizing Streamlit for the f
 
 200-Day-moving-average, FCF(Free Cash Flow) Yield, Debt/Equity to determine if a stock worth holding long term.
 
+Currently support major tech stocks: NVDA, TSLA, etc...
+
 ![image](https://github.com/user-attachments/assets/7c0cd08a-88b9-47ea-bb41-8b1aefb7743f)
 
 
