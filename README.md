@@ -15,7 +15,7 @@ Designed and implemented a full-stack application, utilizing Streamlit for the f
   - [Usage](#usage)
 - [Next Step](#Next-Step)
 
-## 1/29/2025 added long-term metrics
+#### 1/29/2025 added long-term metrics
 
 200-Day-moving-average, FCF(Free Cash Flow) Yield, Debt/Equity to determine if a stock worth holding long term.
 
